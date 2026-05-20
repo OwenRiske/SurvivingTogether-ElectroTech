@@ -1,2 +1,3 @@
 schematics:
-  - oak_platform.yml
+  - oak_platform.litematic
+  - starter_house.litematic
